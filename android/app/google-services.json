@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15898333651",
+    "firebase_url": "https://manoitu.firebaseio.com",
+    "project_id": "manoitu",
+    "storage_bucket": "manoitu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15898333651:android:fa76cb628d24a2f2ef9f26",
+        "android_client_info": {
+          "package_name": "com.ffco.manoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15898333651-jedifn5uuvb7dpp2tok5r9e4258g4e06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ou8SR3Orif1LfnToYD-pxKh3ZOMIsUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15898333651-jedifn5uuvb7dpp2tok5r9e4258g4e06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
